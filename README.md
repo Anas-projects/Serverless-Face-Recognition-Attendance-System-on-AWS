@@ -123,6 +123,6 @@ face-recognition-attendance/
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👨‍💻 Author
 
-Suhail Khadas | Akash M M | Anas Ahmed Ansari|
+Suhail Khadas | Akash M M | Anas Ahmed Ansari |
 AWS | Cloud | Serverless | Face Recognition 
 
